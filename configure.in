@@ -1,0 +1,7 @@
+AC_INIT(fft_test.cpp)
+AM_INIT_AUTOMAKE(fft_test.bin, 0.1)
+AC_PROG_CC
+AC_PROG_CXX
+AC_PROG_LIBTOOL
+AC_OUTPUT(Makefile)
+
